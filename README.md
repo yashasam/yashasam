@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **yashasam2000@gmail.com**
+- 📫 How to reach me **yashasam2000@gmail.com** or **1ds21ai058@dsce.edu.in**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1F4J9uuFQs129ivuEB_idTZpO9Jmal85x?usp=drive_link](https://drive.google.com/drive/folders/1F4J9uuFQs129ivuEB_idTZpO9Jmal85x?usp=drive_link)
 
