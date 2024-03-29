@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1F4J9uuFQs129ivuEB_idTZpO9Jmal85x?usp=drive_link](https://drive.google.com/drive/folders/1F4J9uuFQs129ivuEB_idTZpO9Jmal85x?usp=drive_link)
 
-- ⚡ Fun fact **I can forget the Code!**
+- ⚡ Fun fact **I can copy paste the code!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
