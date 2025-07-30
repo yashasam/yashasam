@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yashas A M</h1>
-<h3 align="center">A passionate full Stack developer from India</h3>
+<h3 align="center">A passionate Data Scientist  from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashasam&label=Profile%20views&color=0e75b6&style=flat" alt="yashasam" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/yashasam?tab=repositories](https://github.com/yashasam?tab=repositories)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Data**
 
 - 📫 How to reach me **yashasam2000@gmail.com** or **1ds21ai058@dsce.edu.in**
 
