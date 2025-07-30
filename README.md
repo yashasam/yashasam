@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yashas A M</h1>
-<h2 align="center">This is my PORTFOLIO - Yashasam.vercel.appS</h2>
+<h2 align="center">This is my PORTFOLIO - Yashasam.vercel.app</h2>
 <h3 align="center">A passionate Data Scientist  from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashasam&label=Profile%20views&color=0e75b6&style=flat" alt="yashasam" /> </p>
