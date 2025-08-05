@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashasam" alt="yashasam" /></a> </p>
 
-<img src="<img width="231" height="219" alt="image" src="https://github.com/user-attachments/assets/db7fc095-7f39-4925-bf2a-a6d0de146890" />
+<img src="<img width="170" height="160" alt="image" align="center" src="https://github.com/user-attachments/assets/db7fc095-7f39-4925-bf2a-a6d0de146890" />
 " alt="Data Doesn't Lie">
 
 - 🔭 I’m currently working on [College Website](https://github.com/yashasam/college_Website.git)
