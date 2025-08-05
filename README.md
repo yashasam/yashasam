@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashasam" alt="yashasam" /></a> </p>
 
-<div style="text-align: center;">
+<p align="center">
   <img src="https://github.com/user-attachments/assets/db7fc095-7f39-4925-bf2a-a6d0de146890" alt="Data Doesn't Lie">
-</div>
+</p>
 
 - 🔭 I’m currently working on [College Website](https://github.com/yashasam/college_Website.git)
 
-- 🌱 I’m currently learning **Django & RubyRails**
+- 🌱 I’m currently learning **Machine & Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yashasam?tab=repositories](https://github.com/yashasam?tab=repositories)
 
