@@ -11,7 +11,7 @@
   <img src="https://github.com/user-attachments/assets/db7fc095-7f39-4925-bf2a-a6d0de146890" alt="Data Doesn't Lie">
 </p>
 
-- 🔭 I’m currently working on [College Website](https://github.com/yashasam/college_Website.git)
+- 🔭 I’m currently working on  " Agentic AI "
 
 - 🌱 I’m currently learning **Machine & Deep Learning**
 
