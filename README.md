@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/yashasam?tab=repositories](https://github.com/yashasam?tab=repositories)
 
-- 💬 Ask me about **Data**
+- 💬 Ask me about **DATA**
 
 - 📫 How to reach me **yashasam2000@gmail.com** or **1ds21ai058@dsce.edu.in**
 
